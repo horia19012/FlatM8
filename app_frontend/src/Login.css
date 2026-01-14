@@ -1,0 +1,13 @@
+.Login{
+     display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+}
+
+.LoginForm {
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    width: 250px;
+}
